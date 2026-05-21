@@ -1,0 +1,16 @@
+transactions.csv
+gold_set.csv
+categories.json
+*.db
+*.sqlite
+
+venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+.DS_Store
+.idea/
+.vscode/
+
